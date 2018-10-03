@@ -1,0 +1,6 @@
+C:\Users\tiagocastro\Desktop\UnitTestApp\BasicMath\bin\Debug\BasicMath.dll
+C:\Users\tiagocastro\Desktop\UnitTestApp\BasicMath\bin\Debug\BasicMath.pdb
+C:\Users\tiagocastro\Desktop\UnitTestApp\BasicMath\obj\Debug\A_BasicMath.csprojResolveAssemblyReference.cache
+C:\Users\tiagocastro\Desktop\UnitTestApp\BasicMath\obj\Debug\A_BasicMath.csproj.CoreCompileInputs.cache
+C:\Users\tiagocastro\Desktop\UnitTestApp\BasicMath\obj\Debug\BasicMath.dll
+C:\Users\tiagocastro\Desktop\UnitTestApp\BasicMath\obj\Debug\BasicMath.pdb
